@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">👋 Selam, ben Cikolatali Puding</h1>
+<h3 align="center">Fırat Üniversitesi | Yazılım Mühendisliği Öğrencisi</h3>
+<p align="center">
+  🚀 ESUcodes'un kurucusu • 🤖 Robotik & Yapay Zeka meraklısı • 🧠 Geleceğin Siber Güvenlik Uzmanı
+</p>
 
-<!--
-**CikolataliPuding/CikolataliPuding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌌 Hakkımda
+Ben Egemen, 2005 doğumluyum. Şu anda Fırat Üniversitesi Yazılım Mühendisliği bölümünde okuyorum.  
+Hayata karşı bazen karamsar, ama kod yazarken ve yeni teknolojilerle uğraşırken inanılmaz motive bir insanım.  
+Amacım sadece yazılım geliştirmek değil — **bir şeyler keşfetmek, anlamak ve üretmek.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Keşfet, Öğren, Üret” — ESUcodes felsefesi
+
+---
+
+### 💡 İlgi Alanlarım
+- 🧠 Yapay Zeka & Makine Öğrenmesi  
+- 🔐 Siber Güvenlik & Etik Hack  
+- ⚙️ Robotik Sistemler  
+- ☕ Java & C# Geliştirme  
+- 🌐 Web Teknolojileri (HTML, CSS, JS, PHP)  
+- 🎮 Basit oyun projeleriyle algoritma mantığını güçlendirmek
+
+---
+
+### 🧩 Teknolojiler & Araçlar
+
+| Alan | Teknolojiler |
+|------|---------------|
+| 💻 Diller | Java, C#, Python (temel), JavaScript, PHP |
+| ⚙️ Framework / Tools | Node.js, .NET, WordPress |
+| 🧠 İlgi Alanları | AI, Robotics, Cybersecurity, Automation |
+| 🧰 Diğer | Git, VS Code, Visual Studio, Cursor, Figma |
+
+---
+
+### 📈 GitHub İstatistikleri
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CikolataliPuding&show_icons=true&theme=radical" alt="Statlarim" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CikolataliPuding&theme=radical" alt="Streaklerim" />
+</p>
+
+---
+
+### 🪐 ESUcodes Hakkında
+[**ESUcodes**](https://esucodes.com) — Explore Software Universe 🌌  
+Bir minik topluluk, bir fikir laboratuvarı, bir yazılım markası.  
+Ama en önemlisi: **öğrenmenin, paylaşmanın ve üretmenin bir manifestosu.**  
+> “Genç yazılımcılar için özgür bir evren kuruyoruz.”
+
+---
+
+### 📫 Bana Ulaş
+- 💬 Discord: cikolatalipuding
+- 🌐 Web: [esucodes.com](https://esucodes.com)  
+- 🪪 LinkedIn: [linkedin.com/in/egemen-korkmaz/](https://www.linkedin.com/in/egemen-korkmaz/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CikolataliPuding&theme=github-dark" alt="Egemen's activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <em>“Kodu ezberleme, düşünceyi öğren.” — hocam</em>
+</p>
