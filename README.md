@@ -1,7 +1,7 @@
-<h1 align="center">👋 Selam, ben Cikolatali Puding</h1>
+<h1 align="center">👋 Merhaba, ben Egemen</h1>
 <h3 align="center">Fırat Üniversitesi | Yazılım Mühendisliği Öğrencisi</h3>
 <p align="center">
-  🚀 ESUcodes'un kurucusu • 🤖 Robotik & Yapay Zeka meraklısı • 🧠 Geleceğin Siber Güvenlik Uzmanı
+   ESUcodes'un kurucusu •  Robotik & Yapay Zeka meraklısı •  Geleceğin Siber Güvenlik Uzmanı
 </p>
 
 ---
@@ -9,19 +9,19 @@
 ### 🌌 Hakkımda
 Ben Egemen, 2005 doğumluyum. Şu anda Fırat Üniversitesi Yazılım Mühendisliği bölümünde okuyorum.  
 Hayata karşı bazen karamsar, ama kod yazarken ve yeni teknolojilerle uğraşırken inanılmaz motive bir insanım.  
-Amacım sadece yazılım geliştirmek değil — **bir şeyler keşfetmek, anlamak ve üretmek.**
+Amacım sadece yazılım geliştirmek değil **bir şeyler keşfetmek, anlamak ve üretmek.**
 
-> “Keşfet, Öğren, Üret” — ESUcodes felsefesi
+> “Keşfet, Öğren, Üret” ESUcodes felsefesi
 
 ---
 
-### 💡 İlgi Alanlarım
-- 🧠 Yapay Zeka & Makine Öğrenmesi  
-- 🔐 Siber Güvenlik & Etik Hack  
-- ⚙️ Robotik Sistemler  
-- ☕ Java & C# Geliştirme  
-- 🌐 Web Teknolojileri (HTML, CSS, JS, PHP)  
-- 🎮 Basit oyun projeleriyle algoritma mantığını güçlendirmek
+###  İlgi Alanlarım
+-  Yapay Zeka & Makine Öğrenmesi  
+-  Siber Güvenlik & Etik Hack  
+-  Robotik Sistemler  
+-  Java & C# Geliştirme  
+-  Web Teknolojileri  
+-  Basit oyun projeleriyle algoritma mantığını güçlendirmek
 
 ---
 
@@ -29,14 +29,14 @@ Amacım sadece yazılım geliştirmek değil — **bir şeyler keşfetmek, anlam
 
 | Alan | Teknolojiler |
 |------|---------------|
-| 💻 Diller | Java, C#, Python (temel), JavaScript, PHP |
-| ⚙️ Framework / Tools | Node.js, .NET, WordPress |
-| 🧠 İlgi Alanları | AI, Robotics, Cybersecurity, Automation |
-| 🧰 Diğer | Git, VS Code, Visual Studio, Cursor, Figma |
+|  Diller | Java, C#, Python (temel), JavaScript, PHP |
+|  Framework / Tools | Node.js, .NET, WordPress |
+|  İlgi Alanları | AI, Robotics, Cybersecurity, Automation |
+|  Diğer | Git, VS Code, Visual Studio, Cursor, Figma |
 
 ---
 
-### 📈 GitHub İstatistikleri
+###  GitHub İstatistikleri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CikolataliPuding&show_icons=true&theme=radical" alt="Statlarim" />
 </p>
@@ -47,7 +47,7 @@ Amacım sadece yazılım geliştirmek değil — **bir şeyler keşfetmek, anlam
 
 ---
 
-### 🪐 ESUcodes Hakkında
+### ESUcodes Hakkında
 [**ESUcodes**](https://esucodes.com) — Explore Software Universe 🌌  
 Bir minik topluluk, bir fikir laboratuvarı, bir yazılım markası.  
 Ama en önemlisi: **öğrenmenin, paylaşmanın ve üretmenin bir manifestosu.**  
@@ -69,5 +69,5 @@ Ama en önemlisi: **öğrenmenin, paylaşmanın ve üretmenin bir manifestosu.**
 ---
 
 <p align="center">
-  <em>“Kodu ezberleme, düşünceyi öğren.” — hocam</em>
+  <em>“Kodu ezberleme, düşünceyi öğren.”</em>
 </p>
